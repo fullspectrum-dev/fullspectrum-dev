@@ -21,7 +21,7 @@
 
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
-| 🛡️ **Building DriftGuard — AI Code Governance** | 🏢 **Ex-SAG Infotech** | 🧠 **225+ DSA Problems Solved** | 🎓 **BCA — Grad 2026** |
+| 🚀 **Founding Engineer @ Senergetic IT Solution** | 🛡️ **Building DriftGuard — AI Code Governance** | 🧠 **225+ DSA Problems Solved** | 🎓 **BCA — Grad 2026** |
 
 </div>
 
@@ -31,17 +31,20 @@
 
 > *"I don't just write code — I build systems that scale."*
 
-I'm a **Full Stack Developer** from Jaipur, India. I started as a **Java backend developer** with real production experience at **SAG Infotech** — shipping REST APIs and working in Agile teams. I've since gone full-stack with **React, Node.js, Express, and MongoDB**, and I'm currently deep in **GenAI-backed backend systems** — building **DriftGuard**, an AI code-governance platform that parses code with ASTs and uses an LLM to catch architectural drift on pull requests.
+I'm currently a **Founding Engineer @ Senergetic IT Solution** (Remote) — building fast-turnaround, production platforms across **EdTech, Next-Gen University systems, College management, and Grocery/Commerce**, using **MERN, Java, and GenAI**, across a high number of parallel, fast-moving requirements.
+
+Before this, I worked as a **Java backend developer** at **SAG Infotech**, shipping REST APIs and working in Agile teams. I've since gone full-stack with **React, Node.js, Express, and MongoDB**, and I'm currently deep in **GenAI-backed backend systems** — building **DriftGuard**, an AI code-governance platform that parses code with ASTs and uses an LLM to catch architectural drift on pull requests.
 
 I believe in **learning by building** — every concept I study turns into a project, a PR, or a bug fixed in production.
 
 ```
-🔭  Building        → DriftGuard (AI code governance / drift detection SaaS)
-🧩  Shipping         → HireFlow (role-based recruitment platform, MERN)
-🌱  Learning         → LLM orchestration, queue-based system design
-🎯  Goal             → Remote Full Stack / Backend role at a high-growth startup
-💬  Ask me about     → React, Node.js, Java, Spring Boot, System Design
-⚡  Fun fact         → I debug faster with chai ☕ than coffee
+🚀  Currently         → Founding Engineer @ Senergetic IT Solution (Remote)
+🏗️  Building at work  → EdTech · Next-Gen University · College · Grocery platforms
+🛡️  Building (side)   → DriftGuard (AI code governance / drift detection SaaS)
+🧩  Shipped            → HireFlow (role-based recruitment platform, MERN)
+🌱  Learning           → LLM orchestration, queue-based system design
+💬  Ask me about       → React, Node.js, Java, Spring Boot, GenAI, System Design
+⚡  Fun fact            → I debug faster with chai ☕ than coffee
 ```
 
 ---
@@ -193,6 +196,20 @@ sequenceDiagram
 ```
 
 </details>
+
+<br/>
+
+<div align="center">
+
+### 🎥 Live Video Demo
+
+<a href="#">
+  <img src="https://img.shields.io/badge/▶_WATCH_DEMO-DriftGuard_in_Action-00FFCC?style=for-the-badge&labelColor=0A0F2E"/>
+</a>
+
+*See DriftGuard connect a repo, parse a markdown convention into a structured rule, and flag a live architectural violation on a real pull request — end to end.*
+
+</div>
 
 ---
 
