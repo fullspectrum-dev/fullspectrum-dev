@@ -21,7 +21,7 @@
 
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
-| 🚀 **Founding Engineer @ Senergetic IT Solution** | 🛡️ **Building DriftGuard — AI Code Governance** | Ex- Sag Infotech  | 🧠 **225+ DSA Problems Solved** | 🎓 **BCA — Grad 2026** |
+| 🚀 **Founding Engineer @ Senergetic IT Solution** | 🛡️ **Building DriftGuard — AI Code Governance** | **Ex- Sag Infotech**  | 🧠 **225+ DSA Problems Solved** | 🎓 **BCA — Grad 2026** |
 
 </div>
 
